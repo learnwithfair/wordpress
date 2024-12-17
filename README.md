@@ -42,6 +42,8 @@ Thanks for visiting my GitHub Account!
 |    ![Finicix](https://github.com/learnwithfair/wordpress/blob/main/images/Blog-Nature-Lover.png)    |
 |                                          Business-Finicix                                           |
 |  ![Nature-Lover](https://github.com/learnwithfair/wordpress/blob/main/images/Business-Finicix.png)  |
+|                                              Pets Care                                              |
+|                                 ![pets-care](images/pets-care.png)                                  |
 |                                           Learn-with-fair                                           |
 | ![Learn-with-fair](https://github.com/learnwithfair/wordpress/blob/main/images/Learn-with-fair.png) |
 |                                               Gjortt                                                |
